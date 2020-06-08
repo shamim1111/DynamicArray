@@ -9,7 +9,7 @@ namespace Dynamic_Array
     class DynamicArray
     {
         /// <summary>
-        /// This method process the dynamic array based on the hacker rank algorithm.
+        /// This method processes the dynamic array based on the hacker rank algorithm.
         /// </summary>
         /// <param name="n"></param>
         /// <param name="queries"></param>
